@@ -1,0 +1,11 @@
+# Wrangler configuration for Cloudflare Pages and D1 Database
+name = "raghus-world"
+compatibility_date = "2026-06-13"
+
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "raghus-world-db"
+database_id = "local-dev-id"
+migrations_dir = "./migrations"

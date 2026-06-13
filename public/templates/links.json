@@ -1,0 +1,44 @@
+[
+  {
+    "type": "document",
+    "title": "Welcome Guide PDF",
+    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "icon": "pdf"
+  },
+  {
+    "type": "document",
+    "title": "Fun Science Activity",
+    "url": "https://example.com/science.docx",
+    "icon": "word"
+  },
+  {
+    "type": "sheet",
+    "title": "Weekly Math Leaderboard",
+    "url": "https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit",
+    "icon": "sheets"
+  },
+  {
+    "type": "sheet",
+    "title": "Homework Tracker",
+    "url": "https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit",
+    "icon": "sheets"
+  },
+  {
+    "type": "doc",
+    "title": "English Assignment Rules",
+    "url": "https://docs.google.com/document/d/1YS32eL_zL2pYVpYmD6T8l6s60C6Cq4C4C4C4C4C4C4/edit",
+    "icon": "docs"
+  },
+  {
+    "type": "doc",
+    "title": "Creative Writing Prompts",
+    "url": "https://docs.google.com/document/d/1YS32eL_zL2pYVpYmD6T8l6s60C6Cq4C4C4C4C4C4C4/edit",
+    "icon": "docs"
+  },
+  {
+    "type": "game",
+    "title": "Math Blaster 2048",
+    "url": "https://play2048.co/",
+    "icon": "gamepad"
+  }
+]

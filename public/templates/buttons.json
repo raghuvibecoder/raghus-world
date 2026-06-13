@@ -1,0 +1,37 @@
+[
+  {
+    "grade": "2",
+    "section": "A",
+    "set_num": 1,
+    "lesson_name": "Phonics Playground",
+    "url": "https://example.com/phonics"
+  },
+  {
+    "grade": "2",
+    "section": "A",
+    "set_num": 1,
+    "lesson_name": "Number Sense",
+    "url": "https://example.com/numbers"
+  },
+  {
+    "grade": "2",
+    "section": "B",
+    "set_num": 1,
+    "lesson_name": "Word Families",
+    "url": "https://example.com/words"
+  },
+  {
+    "grade": "3",
+    "section": "A",
+    "set_num": 1,
+    "lesson_name": "Multiplication Magic",
+    "url": "https://example.com/multiplication"
+  },
+  {
+    "grade": "4",
+    "section": null,
+    "set_num": 1,
+    "lesson_name": "Fractions Fun",
+    "url": "https://example.com/fractions"
+  }
+]
